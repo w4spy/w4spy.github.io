@@ -18,4 +18,6 @@ You can [report](https://github.com/w4spy/w4spy.github.io/issues/new) if there i
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/w4spy.svg?style=social&label=%20%40w4spy)](https://twitter.com/w4spy){:target="_blank"}
 
-[![Pinterest](https://img.shields.io/badge/%20%40pikyxell-%23E60023.svg?logo=Pinterest)](https://www.pinterest.com/pikyxell/){:target="_blank"}
+[![Pinterest](https://img.shields.io/badge/%20%40pikyxell-%23E60023.svg?logo=Pinterest)](https://www.pinterest.com/pikyxell/){:target="_blank"}  
+
+[![LinkedIn](https://img.shields.io/badge/zakarya-mermoul-%230077B5.svg?logo=linkedin)](https://www.linkedin.com/in/zakarya-mermoul/){:target="_blank"}
